@@ -26,17 +26,17 @@
   <button type="button" class="btn btn-secondary emoji-button" onclick="writeEmoji('👽')">👽</button>
   <button type="button" class="btn btn-secondary emoji-button" onclick="writeEmoji('⚠️')">⚠️</button>
   <button type="button" class="btn btn-secondary emoji-button" onclick="writeEmoji('🍎')">🍎</button>
-  
+
 </div>
 <div class="form-horizontal">
   <div class="form-group">
     <div class="input-group">
       <div class="input-group-addon">Mensaje encriptado</div>
-      <input 
-        id="emojis_message" 
+      <input
+        id="emojis_message"
         name="emojis_message"
-        type="text" 
-        class="form-control mu-free-form-input" 
+        type="text"
+        class="form-control mu-free-form-input"
         onchange="onChange()"
         placeholder="Emojis">
     </div>
@@ -46,7 +46,7 @@
 
 <script>
   let start;
-  
+
   function writeEmoji(emoji) {
     const emojisInput = $('#emojis_message');
     const emojiCursorStart = emojisInput.prop('selectionStart');

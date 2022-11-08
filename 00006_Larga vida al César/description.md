@@ -8,9 +8,10 @@ Pero este algoritmo es más interesante si nos desplazamos más lugares :smirk:.
 
 A  -> D, B  -> E, C -> F, ...
 
-> Aunque esta técnica de desplazamiento es muy antigua se puede programar muy fácilmente :sunglasses:. Vamos a utilizar el lenguaje Python <i class="da da-python"></i> para eso. Completá el método `desplazar_hacia_adelante` que recibe una letra y la desplaza la cantidad de lugares recibida por parámetro.
+> Aunque esta técnica de desplazamiento es muy antigua se puede programar muy fácilmente :sunglasses:. Nuevamente usando Python :snake:, completá el método `desplazar_hacia_adelante` que recibe una letra y la desplaza la cantidad de lugares recibida por parámetro.
 >
-```
+
+```python
 ム desplazar_hacia_adelante('A', 2)
 'C'
 ```
