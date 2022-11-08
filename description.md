@@ -1,0 +1,1 @@
+Ya vimos qué es y cómo está compuesto Internet :globe_with_meridians:. Ahora conozcamos sus vulnerabilidades, no para tenerle miedo :fearful:, sino para saber cómo protegernos y hacer un uso responsable de la tecnología. :wink:

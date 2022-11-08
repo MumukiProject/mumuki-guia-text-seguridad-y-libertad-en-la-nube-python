@@ -1,0 +1,19 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Volverlos ilegibles
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Secuestrarlos
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Darlos vuelta (fotos al revés, canción de fin a principio, etc.)
+  checked: false
+name: Siguen los éxitos
