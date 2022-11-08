@@ -1,4 +1,4 @@
-Vamos a ver cómo sería el código en Ruby necesario para poder cifrar mensajes de la misma forma que lo hicimos en el ejercicio anterior. 
+Vamos a ver cómo sería el código en Python necesario para poder cifrar mensajes de la misma forma que lo hicimos en el ejercicio anterior. 
 
 El código es  ▌ ▐ ▐ ░ ▒ ▓ ■ ■ □ ▪ ▫ ▫▬ ▲ ► ▼ ◄ ◊ ◊ ○ ● ◘ ◘◙ ◦  ☻ ☻ ☼ ♀ ♂ ♠♠ ♣ ♥ ♦ ♪ ﬂ_ _ _ _ _ _ _ _ ♫  @ ~ ¡ ¢ £ ¤ ¥ ¦ § © « ª ¬ ­ ® ¯ ° ± ² ³ ´ µ ¶ · ¸ ¹ º » ¼ ½ ¾ À.
 
@@ -41,7 +41,7 @@ El código es  ▌ ▐ ▐ ░ ▒ ▓ ■ ■ □ ▪ ▫ ▫▬ ▲ ► ▼ �
   </tr>
 </table>
 >
-Completá el código en Ruby para poder cifrar mensajes correctamente.
+Completá el código en Python para poder cifrar mensajes correctamente.
 
 <div class="btn-group" role="group" aria-label="Emojis">
   <button type="button" class="btn btn-secondary emoji-button" onclick="writeEmoji('💜️')">💜️</button>
