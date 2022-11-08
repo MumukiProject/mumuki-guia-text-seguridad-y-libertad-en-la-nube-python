@@ -32,4 +32,4 @@ def transformar_letra(letra):
 	return letras_a_emojis[letra]
 
 def cifrar_mensaje_con_emojis(mensaje):
-  return ''.join([transformar_letra(c) for c in mensaje])
+  return ''.join([transformar_letra(letra) for letra in mensaje])
