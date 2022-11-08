@@ -4,7 +4,7 @@ En vez de utilizar un algoritmo de cifrado para ocultar sus archivos, Agus utili
 
 > Vamos a ver una función hash en acción :muscle:. Solo falta que le des un valor a la variable `tamanio_mensaje` con el largo del mensaje que recibe `hash_mumuki` por parámetro. Podés probar en la consola transformando distintos mensajes de la siguiente forma:
 >
-``` ruby
+``` python
 ム hash_mumuki('me van a hashear')
 2635041755969520934347140
 ```
